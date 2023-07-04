@@ -1,5 +1,5 @@
 <h1>Hi, Welcome to my GitHub! Nice to see you</h1>
-<p><b>I'm studying to become Marketing Technician with a specialization in Data Analyst.</b></p>
+<p><b>I'm studying to become a Marketing Technician with a specialization in Data Analyst.</b></p>
 <img alt="dangelodavide Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangelodavide&layout=compact&theme=obscure">
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
