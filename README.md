@@ -6,8 +6,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-PHP-7989c2?style=flat-square&logo=php&logoColor=white"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.JS-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00627b?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/> <br>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00627b?style=flat-square&logo=mysql&logoColor=white"/> <br>
+  <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/> 
   <img alt="Google" src="https://img.shields.io/badge/Google%20Analytics-E37400?flat-square&logo=google%20analytics&logoColor=white"/>
   <img alt="Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"/>
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
