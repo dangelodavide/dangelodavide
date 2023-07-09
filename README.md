@@ -13,5 +13,4 @@
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
   <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252"/>
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </p>
