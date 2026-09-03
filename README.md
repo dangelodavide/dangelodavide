@@ -8,10 +8,6 @@
 
 <br><br>
 
-<p align="center"><a href="https://www.linkedin.com/in/dangelodavide/"><img src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin&theme=dark" width="42" height="42" title="LinkedIn" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/dangelodavide"><img src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark" width="42" height="42" title="GitHub" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/dangelodavide?tab=repositories"><img src="https://skill-icons-v2.vercel.app/api/icons?i=portfolio&theme=dark" width="42" height="42" title="Projects" alt="Projects"></a></p>
-
-<br>
-
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="560" alt="Dino animation">
 
 <br><br>
