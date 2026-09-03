@@ -4,13 +4,12 @@
 
 <p align="center">
   I build web applications, internal management platforms, ecommerce solutions and enterprise integrations.<br>
-  My experience spans client projects at <b>Sidea Group</b>, enterprise environments including <b>Enel/Ener</b>, and digital products developed through <b>WebTeam Solutions (WTS)</b>.
+  My experience spans client projects at <b>Sidea Group</b>, enterprise environments including <b>Enel</b>, and digital products developed through side projects.
 </p>
 
 About me
 
 • 💼 Developer at Sidea Group
-• 🚀 Co-founder and developer at WebTeam Solutions (WTS)
 • 🧩 Experienced in full-stack development, ecommerce, billing platforms and system integrations
 • ⚙️ I design local and cloud-based applications, APIs, workflows and business automations
 • 📊 Background in economics, marketing, data analysis and data-driven decision-making
