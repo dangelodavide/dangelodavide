@@ -118,7 +118,10 @@ Analytics, reporting and data tooling used to transform information into operati
 
 ---
 
-## Areas of Expertise
+<details>
+<summary><strong>Areas of Expertise</strong></summary>
+
+<br>
 
 <table>
 
@@ -178,9 +181,16 @@ PostgreSQL · SQL · Analytics · Internal Platforms · Reporting
 
 <br>
 
+</details>
+
+<br>
+
 ---
 
-## Professional Background
+<details>
+<summary><strong>Professional Background</strong></summary>
+
+<br>
 
 My background combines **software development, economics, business processes and data analysis**, allowing me to approach technology from both an engineering and strategic perspective.
 
@@ -223,9 +233,16 @@ Applied analytics, data interpretation and decision support.
 
 <br>
 
+</details>
+
+<br>
+
 ---
 
-## Current Focus
+<details>
+<summary><strong>Current Focus</strong></summary>
+
+<br>
 
 <div align="center">
 
@@ -258,3 +275,5 @@ Applied analytics, data interpretation and decision support.
 <br>
 
 </div>
+
+</details>
