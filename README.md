@@ -1,139 +1,140 @@
-<h1 align="center">Hi, I'm Davide 👋</h1>
-
-<h3 align="center">Full Stack Developer · Enterprise Integrations · Automation & Data</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:38bdf8&text=Davide&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Automation%20%E2%80%A2%20Enterprise%20Integrations&descAlignY=58" alt="header" />
+</p>
 
 <p align="center">
-  I build web applications, internal management platforms, ecommerce solutions and enterprise integrations.<br>
-  My experience spans client projects at <b>Sidea Group</b>, enterprise environments including <b>Enel</b>, and digital products developed through side projects.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=800&color=E2E8F0&center=true&vCenter=true&width=900&lines=Building+modern+web+apps;Designing+automation+and+integrations;Working+on+data-driven+digital+solutions" alt="Typing SVG" />
 </p>
 
-About me
+---
 
-• 💼 Developer at Sidea Group
-• 🧩 Experienced in full-stack development, ecommerce, billing platforms and system integrations
-• ⚙️ I design local and cloud-based applications, APIs, workflows and business automations
-• 📊 Background in economics, marketing, data analysis and data-driven decision-making
-• 🎓 Master’s degree path in Data Science for Strategic Decision-Making (LM-56)
+## ✨ About Me
 
-Programming Languages
+I’m a **Full Stack Developer** focused on building modern digital solutions across:
 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Liquid" src="https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+- **web applications**
+- **internal business platforms**
+- **ecommerce experiences**
+- **automation workflows**
+- **enterprise integrations**
+
+I like working at the intersection of **development, operations, business logic and data** — turning real needs into reliable products.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-Frontend & Web
+---
 
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="PWA" src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-  <img alt="ScandiPWA" src="https://img.shields.io/badge/ScandiPWA-ED1E79?style=flat-square" />
+## 🧠 What I Do
+
+- Build **full-stack web applications**
+- Create **internal management systems**
+- Develop **ecommerce and business platform integrations**
+- Design **REST APIs**, middleware and data flows
+- Automate operational processes with **workflows and scripts**
+- Work on **reporting, analytics and dashboards**
+- Deploy and maintain solutions across **local-first and cloud environments**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=8892BF" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/Liquid-111827?style=for-the-badge&logo=shopify&logoColor=95BF47" />
 </p>
 
-Backend, APIs & Testing
-
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="REST API" src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/PWA-111827?style=for-the-badge&logo=pwa&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/ScandiPWA-111827?style=for-the-badge&logoColor=white" />
 </p>
 
-Databases & Data Platforms
-
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img alt="Trino" src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white" />
-  <img alt="Presto" src="https://img.shields.io/badge/Presto-5890FF?style=flat-square&logo=presto&logoColor=white" />
+### Backend, APIs & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+  <img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge&logoColor=FF4F64" />
+  <img src="https://img.shields.io/badge/SFTP-111827?style=for-the-badge&logoColor=4A90E2" />
+  <img src="https://img.shields.io/badge/Jest-111827?style=for-the-badge&logo=jest&logoColor=C21325" />
+  <img src="https://img.shields.io/badge/Puppeteer-111827?style=for-the-badge&logo=puppeteer&logoColor=40B5A4" />
 </p>
 
-Cloud, Infrastructure & DevOps
-
-<p>
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
-  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
-  <img alt="Cron" src="https://img.shields.io/badge/Cron_Jobs-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+### Databases & Data
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trino-111827?style=for-the-badge&logo=trino&logoColor=DD00A1" />
+  <img src="https://img.shields.io/badge/Presto-111827?style=for-the-badge&logoColor=5890FF" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-111827?style=for-the-badge&logo=googlesheets&logoColor=34A853" />
+  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=E97627" />
 </p>
 
-Ecommerce, CMS & Enterprise Platforms
-
-<p>
-  <img alt="Magento 2" src="https://img.shields.io/badge/Magento_2-EE672F?style=flat-square&logo=magento&logoColor=white" />
-  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img alt="Zuora" src="https://img.shields.io/badge/Zuora_Billing-2272B4?style=flat-square" />
-  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
-  <img alt="ERP" src="https://img.shields.io/badge/ERP_Integration-5C2D91?style=flat-square" />
-  <img alt="PIM" src="https://img.shields.io/badge/PIM-6A1B9A?style=flat-square" />
-  <img alt="Middleware" src="https://img.shields.io/badge/Middleware-455A64?style=flat-square" />
+### Cloud, DevOps & Infra
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Heroku-111827?style=for-the-badge&logo=heroku&logoColor=430098" />
+  <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-111827?style=for-the-badge&logo=bitbucket&logoColor=0052CC" />
+  <img src="https://img.shields.io/badge/Tailscale-111827?style=for-the-badge&logo=tailscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cron-111827?style=for-the-badge&logoColor=4285F4" />
 </p>
 
-Automation, Monitoring & Integration
-
-<p>
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img alt="Zuora Workflow" src="https://img.shields.io/badge/Zuora_Workflow-2272B4?style=flat-square" />
-  <img alt="Webhooks" src="https://img.shields.io/badge/Webhooks-FF4F64?style=flat-square&logo=webhook&logoColor=white" />
-  <img alt="SFTP" src="https://img.shields.io/badge/SFTP-4A90E2?style=flat-square" />
-  <img alt="Papertrail" src="https://img.shields.io/badge/Papertrail-1F8DD6?style=flat-square" />
-  <img alt="SolarPanel" src="https://img.shields.io/badge/SolarPanel-F5A623?style=flat-square" />
+### Ecommerce & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Magento%202-111827?style=for-the-badge&logo=magento&logoColor=EE672F" />
+  <img src="https://img.shields.io/badge/Shopify-111827?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
+  <img src="https://img.shields.io/badge/WordPress-111827?style=for-the-badge&logo=wordpress&logoColor=21759B" />
+  <img src="https://img.shields.io/badge/Salesforce-111827?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <img src="https://img.shields.io/badge/Zuora-111827?style=for-the-badge&logoColor=2272B4" />
+  <img src="https://img.shields.io/badge/ERP-111827?style=for-the-badge&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/PIM-111827?style=for-the-badge&logoColor=C026D3" />
+  <img src="https://img.shields.io/badge/Middleware-111827?style=for-the-badge&logoColor=94A3B8" />
 </p>
 
-Data, Analytics & AI
+---
 
-<p>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="Google Analytics" src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
-  <img alt="Gemini" src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img alt="Lighthouse" src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white" />
-  <img alt="PageSpeed Insights" src="https://img.shields.io/badge/PageSpeed_Insights-4285F4?style=flat-square&logo=pagespeedinsights&logoColor=white" />
-</p>
+## 🚀 Focus Areas
 
-What I work on
-
-• Full-stack web applications and internal business platforms
-• Local-first management systems with PostgreSQL, Docker and secure remote access
-• Enterprise billing workflows and integrations between business platforms
-• Ecommerce development across Magento 2, Shopify and WordPress ecosystems
-• REST APIs, middleware, data exchange and automated workflows
-• Reporting, analytics, PDF generation and operational dashboards
-• Deployment, monitoring, debugging and incident analysis across cloud environments
-
-Professional experience
-
-Sidea Group & enterprise projects
-
-Development and maintenance of ecommerce platforms, backend services, billing workflows and system integrations. My work includes Magento 2, ScandiPWA, Zuora Billing, Java services, Heroku environments, REST APIs, SQL-based reporting, Bitbucket pipelines and application monitoring.
-
-WebTeam Solutions
-
-Design and development of websites, digital services and internal tools for businesses. Recent work includes React and Next.js applications, Supabase-based solutions, PostgreSQL migrations, Dockerized local infrastructure, Netlify deployments, n8n automations, analytics and reporting.
-
-────────
-
-<p align="center">
-  <i>Always learning, building and turning business needs into reliable digital solutions.</i>
-</p>
+```txt
+Full Stack Development
+Enterprise Integrations
+Automation & Workflows
+Ecommerce Solutions
+Data & Reporting
+Local-first Infrastructure
